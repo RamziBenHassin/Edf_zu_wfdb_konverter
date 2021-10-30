@@ -9,12 +9,14 @@ Some required libraries should be installed previously
 - pyEDFlib: https://pypi.org/project/pyEDFlib/
 
 these libraries could be installed by executing this following command 
+
 ### `pip install -r requirements.txt`
 
 ## Running the files 
 Through a simple command line the conversion will take place and generate two files .data and .hea 
 ### `python edf2wfdb <path>`
 then enter the file name
+###`file_name´
 
 <br> With `<path>` referencing the path of the edf file that we want to convert 
 

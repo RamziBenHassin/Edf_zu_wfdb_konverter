@@ -15,7 +15,7 @@ these libraries could be installed by executing this following command
 ## Running the files 
 Through a simple command line the conversion will take place and generate two files .data and .hea 
 ### `python edf2wfdb.py <path>`
-then enter the file name
+then enter the wfdb file name
 ### `file_name`
 <br> With `<path>` referencing the path of the edf file that we want to convert 
 

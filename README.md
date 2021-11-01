@@ -6,7 +6,7 @@ This program has a main goal to convert edf file to wfdb (mit), based a command 
 Some required libraries should be installed previously 
 - WFDB: https://github.com/MIT-LCP/wfdb-python 
 - MNE: https://mne.tools
-- pyEDFlib: https://pypi.org/project/pyEDFlib/
+- pyEDFlib: https://pypi.org/project/pyEDFlib
 
 these libraries could be installed by executing this following command 
 

@@ -1,6 +1,6 @@
 # Edf_zu_wfdb_konverter
 
-This program has a main goal to convert edf file to wfdb (mit), based a command line Terminal 
+This program has a main goal to convert edf file to wfdb (MIT), based a command line Terminal 
 
 ## Setup 
 Some required libraries should be installed previously 

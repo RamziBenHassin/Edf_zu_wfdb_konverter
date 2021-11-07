@@ -17,6 +17,6 @@ Through a simple command line the conversion will take place and generate two fi
 ### `python edf2wfdb.py -i <path> -o file_name` 
 
 <br> With `<path>` referencing the path of the edf file that we want to convert 
-<br> With `file_name` the wfdb file name
+<br> and `file_name` the wfdb file name
 
 

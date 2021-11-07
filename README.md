@@ -13,11 +13,11 @@ these libraries could be installed by executing this following command
 ### `pip install -r requirements.txt`
 
 ## Running the files 
-Through a simple command line the conversion will take place and generate two files .data and .hea 
+- Through a simple command line the conversion will take place and generate two files .data and .hea 
 ### `python edf2wfdb.py -i <path> -o file_name` 
 <br> With `<path>` referencing the path of the edf file that we want to convert <br> and `file_name` the wfdb file name
 
-Or by executing this following command 
+- Or by executing this following command 
 ### `edf2wfdb.exe -i file_to_convert.edf  -o wfdb_file_name` 
 
 
